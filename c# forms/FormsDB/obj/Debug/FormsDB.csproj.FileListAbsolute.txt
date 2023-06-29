@@ -1,0 +1,12 @@
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\bin\Debug\FormsDB.exe.config
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\bin\Debug\FormsDB.exe
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\bin\Debug\FormsDB.pdb
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.csproj.AssemblyReference.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.Form1.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.login.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.Properties.Resources.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.csproj.GenerateResource.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.csproj.CoreCompileInputs.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.exe
+C:\Users\ranji\Desktop\Claysys\c# forms\FormsDB\obj\Debug\FormsDB.pdb
