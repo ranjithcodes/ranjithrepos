@@ -1,0 +1,11 @@
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\bin\Debug\ContactForm.exe.config
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\bin\Debug\ContactForm.exe
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\bin\Debug\ContactForm.pdb
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.csproj.AssemblyReference.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.Form1.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.Properties.Resources.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.csproj.GenerateResource.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.csproj.CoreCompileInputs.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.exe
+C:\Users\ranji\Desktop\Claysys\c# forms\ContactForm\obj\Debug\ContactForm.pdb

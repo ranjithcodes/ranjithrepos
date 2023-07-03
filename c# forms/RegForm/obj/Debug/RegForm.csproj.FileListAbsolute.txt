@@ -1,0 +1,11 @@
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\bin\Debug\RegForm.exe.config
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\bin\Debug\RegForm.exe
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\bin\Debug\RegForm.pdb
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.csproj.AssemblyReference.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.Form1.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.Properties.Resources.resources
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.csproj.GenerateResource.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.csproj.CoreCompileInputs.cache
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.exe
+C:\Users\ranji\Desktop\Claysys\c# forms\RegForm\obj\Debug\RegForm.pdb
