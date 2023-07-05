@@ -1,0 +1,141 @@
+﻿body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,121,1) 0%, rgba(0,255,230,1) 100%);
+    min-height: 100vh;
+}
+.img1{
+    position:relative; right:105px; top: -5px;
+    width: 8%;
+    height: 10vh;
+    cursor: pointer;
+}
+
+h1 {
+    font-family: Forte;
+    text-align: center;
+}
+
+
+main {
+    position: relative;
+    top: 50px;
+}
+p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar{
+    margin: auto;
+    width: 105%;
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    
+}
+
+.slidershow {
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.middle {
+    position: relative;
+    top: 250px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.navigation {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+
+.bar {
+    width: 50px;
+    height: 10px;
+    border: 2px solid #fff;
+    margin: 6px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+    .bar:hover {
+        background: #fff;
+    }
+
+input[name="r"] {
+    position: absolute;
+    visibility: hidden;
+}
+
+.slides {
+    width: 500%;
+    height: 100%;
+    display: flex;
+}
+
+.slide {
+    width: 20%;
+    transition: 0.6s;
+}
+
+    .slide img {
+        width: 100%;
+        height: 100%;
+    }
+
+#r1:checked ~ .s1 {
+    margin-left: 0;
+}
+
+#r2:checked ~ .s1 {
+    margin-left: -20%;
+}
+
+#r3:checked ~ .s1 {
+    margin-left: -40%;
+}
+
+#r4:checked ~ .s1 {
+    margin-left: -60%;
+}
+
+#r5:checked ~ .s1 {
+    margin-left: -80%;
+}
+
+.footer {
+    position: relative;
+    top: 70px;
+    background-color: #00ff79;
+}
+.footer .social{
+    text-align:center;
+    padding-bottom: 25px;
+    color: black;
+}
+
+.footer .social a{
+    font-size: 50px;
+    justify-content:space-between;
+}
+
+.footer .add {
+    padding: 0 0 50px;
+}

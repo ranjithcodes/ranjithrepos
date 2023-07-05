@@ -1,0 +1,122 @@
+﻿body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,121,1) 0%, rgba(0,255,230,1) 100%);
+}
+form {
+    font-family: "Roboto", sans-serif;
+    width: 650px;
+    margin: 30px auto;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+p {
+    text-align:center;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    padding: 20px 0;
+    border-bottom: 1px solid black;
+}
+
+
+.fn {
+    margin-bottom: 20px;
+}
+
+.ln {
+    margin-bottom: 20px;
+}
+
+.email {
+    margin-bottom: 20px;
+}
+
+.age {
+    margin-bottom: 20px;
+}
+.no {
+    margin-bottom: 20px;
+}
+.gender {
+    margin-bottom: 20px;
+}
+
+.dob
+{
+    margin-bottom:20px;
+}
+
+.add {
+    margin-bottom: 20px;
+}
+
+.un {
+    margin-bottom: 20px;
+}
+
+.password {
+    margin-bottom: 20px;
+}
+
+.cpassword {
+    margin-bottom: 20px;
+}
+
+.state {
+    margin-bottom: 20px;
+}
+
+.city{
+    margin-bottom: 20px;
+}
+
+span {
+    color: red;
+    size: 20px;
+    padding-bottom: 2px;
+}
+
+.navbar{
+    margin: auto;
+    width: 105%;
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    
+}
+
+.footer {
+    position: relative;
+    top: 70px;
+    background-color: #00ff79;
+}
+.footer .social{
+    text-align:center;
+    padding-bottom: 25px;
+    color: black;
+}
+
+.footer .social a{
+    font-size: 50px;
+    justify-content:space-between;
+}
+
+.footer .add {
+    padding: 0 0 50px;
+}

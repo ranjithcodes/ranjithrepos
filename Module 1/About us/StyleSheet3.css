@@ -1,0 +1,58 @@
+﻿body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,121,1) 0%, rgba(0,255,230,1) 100%);
+}
+.About-us {
+    width: 100%;
+    text-align: center;
+   
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: red;
+    font-size: 35px;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    text-shadow:
+}
+
+a {
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background: #3B5998;
+    color: white;
+    border-radius: 8px;
+    font-size: 50px;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+    margin: 20px;
+    border-color: black;
+    background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,121,1) 0%, rgba(0,255,230,1) 100%);
+}
+
+    .card img {
+        height: 70px;
+    }

@@ -1,0 +1,108 @@
+﻿body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,121,1) 0%, rgba(0,255,230,1) 100%);
+}
+.img1{
+    position:relative; right:105px; top: -5px;
+    width: 8%;
+    height: 10vh;
+    cursor: pointer;
+}
+form {
+    padding: 10px;
+    position:relative ;
+}
+
+
+h2{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+form div {
+        padding: 10px;
+        position: relative;
+        font-size: 1.3em;
+    }
+
+  
+
+form div input {
+    height: 2em;
+    width: 700px;
+    padding-left: 40px;
+    font-size: 1em;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid #b5adad;
+    background-color: #f1f1f1;
+ }
+
+
+textarea {
+   
+    width: 70vw;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 1em;
+}
+
+button {
+    width: 50%;
+    height: 5vh;
+    color: #ffffff;
+    background: #00d689;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+
+
+    textarea {
+        width: 50vw;
+    }
+    .navbar{
+        margin: auto;
+        width: 105%;
+        padding: 40px 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .navbar ul li {
+        list-style: none;
+        display: inline-block;
+        margin: 0 20px;
+        position: relative;
+    }
+    
+    .navbar ul li a{
+        text-decoration: none;
+        
+    }
+    
+    .footer {
+        position: relative;
+        top: 70px;
+        background-color: #00ff79;
+    }
+    .footer .social{
+        text-align:center;
+        padding-bottom: 25px;
+        color: black;
+    }
+    
+    .footer .social a{
+        font-size: 50px;
+        justify-content:space-between;
+    }
+    
+    .footer .add {
+        padding: 0 0 50px;
+    }
+    
